@@ -1,2 +1,2 @@
 # Acrylic-painting
-Very simple project using HTML, CSS, AOS library (Animation on scrolling).
+Very simple project using HTML, CSS And AOS library (Animation on scrolling).
